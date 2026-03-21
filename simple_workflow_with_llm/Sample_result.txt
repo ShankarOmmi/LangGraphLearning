@@ -1,0 +1,10 @@
+Question : What is the capital of India?
+Answer: The capital of India is New Delhi.
+Question : What is most abundant thing in this world?
+Answer: Water
+Question : What is life?
+Answer: Life = 0 (no, not literally)
+Question : Who is the director of the movie Titanic?
+Answer: James Cameron.
+Question : Who is the writer of the movie "life of Pi"?
+Answer: Yann Martel.
