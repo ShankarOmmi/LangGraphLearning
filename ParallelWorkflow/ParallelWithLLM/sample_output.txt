@@ -1,0 +1,75 @@
+============================== New sample ==============================
+
+Password : 12345678
+Length Feedback : Good length
+Length Score : 7
+Diversity Feedback : Very poor diversity
+Diversity Score : 2
+Patterns Feedback : The password consists of a simple and highly predictable sequential numeric pattern, making it extremely vulnerable to brute-force attacks and easy to guess.
+Pattern Score : 0
+Overall Feedback : **Overall Password Strength: Critically Weak**
+
+**Explanation:** Despite good length, your password's extremely poor diversity and simple, sequential numeric pattern make it highly predictable and extremely vulnerable to attacks.
+Overall Score : 3.0
+Strength of the password : Weak
+
+============================== New sample ==============================
+
+Password : MSDhoni@07
+Length Feedback : Good length
+Length Score : 7
+Diversity Feedback : Excellent character diversity
+Diversity Score : 10
+Patterns Feedback : The password uses a common name ('MSDhoni') combined with a predictable number ('07'), which is a very common and easily guessable pattern, especially if the user's identity is known. This significantly weakens its strength.
+Pattern Score : 3
+Overall Feedback : **Overall Strength: Weak.**
+
+While the password boasts good length and excellent character diversity, the use of a common name combined with a predictable number ('MSDhoni07') creates an easily guessable pattern, critically undermining its security despite its other strengths.
+Overall Score : 6.67
+Strength of the password : Medium
+
+============================== New sample ==============================
+
+Password : diamondlander@7014#&
+Length Feedback : Too long (not practical)
+Length Score : 6
+Diversity Feedback : Good diversity but can be improved
+Diversity Score : 8
+Patterns Feedback : The password contains the dictionary words 'diamond' and 'lander' which are predictable patterns and susceptible to dictionary attacks. While it includes numbers and special characters, the base word combination significantly weakens its strength against pattern-based guessing.
+Pattern Score : 4
+Overall Feedback : **Overall Strength: Weak**
+
+**Explanation:**
+Despite good character diversity, the presence of common dictionary words ('diamond', 'lander') creates a significant pattern vulnerability, making it highly susceptible to dictionary attacks. Additionally, its excessive length impacts practicality.
+Overall Score : 6.0
+Strength of the password : Medium
+
+============================== New sample ==============================
+
+Password : diaMonD2day@9#
+Length Feedback : Strong length
+Length Score : 9
+Diversity Feedback : Excellent character diversity
+Diversity Score : 10
+Patterns Feedback : The password contains predictable patterns, specifically the leetspeak '2day' for 'today' and the common word 'diamond', making it less random and easier to guess despite the mixed case and special characters.
+Pattern Score : 4
+Overall Feedback : **Overall Strength: Moderate**
+
+While the password boasts strong length and excellent character diversity, the inclusion of predictable patterns like the leetspeak '2day' and the common word 'diamond' significantly reduces its randomness, making it easier to guess despite its other positive attributes.
+Overall Score : 7.67
+Strength of the password : Strong
+============================== New sample ==============================
+
+Password : 112233445566
+Length Feedback : Strong length
+Length Score : 9
+Diversity Feedback : Very poor diversity
+Diversity Score : 2
+Patterns Feedback : The password consists of simple, repeating numerical pairs (11, 22, 33, etc.), which is a highly predictable pattern and extremely weak.
+Pattern Score : 1
+Overall Feedback : **Overall Strength: Extremely Weak**
+
+**Explanation:** While the length is strong, the password is critically undermined by its very poor diversity and, most significantly, an extremely weak and highly predictable pattern of repeating numerical pairs. This makes it extremely vulnerable to simple attacks.
+Overall Score : 4.0
+Strength of the password : Weak
+
