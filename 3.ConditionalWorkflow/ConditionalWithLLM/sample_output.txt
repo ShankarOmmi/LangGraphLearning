@@ -1,0 +1,61 @@
+============================== New sample ==============================
+
+Review : I've been trying to log in for over an hour now,
+and the app keeps freezing on the authentication screen. 
+I even tried reinstalling it, but no luck. This kind of 
+bug is unacceptable, especially when it affects basic 
+functionality.
+Sentiment : negative
+Diagnosis: {'issue_type': 'Bug', 'tone': 'frustrated', 'urgency': 'high'}
+Response : Subject: Good News: Your High-Priority Bug Issue is Resolved!
+
+Hi [User Name],
+
+I'm genuinely sorry to hear you've been experiencing this 
+frustrating bug and understand completely how disruptive
+ and annoying such issues can be, especially with high 
+ urgency. Thank you for bringing this to our immediate attention.
+
+I'm pleased to inform you that our team has thoroughly 
+investigated the problem you reported and successfully
+deployed a fix. The bug causing [briefly mention the impact,
+e.g., "the data loss" or "the system crash"] should 
+now be resolved.
+
+Please try accessing [affected feature/system] at your 
+convenience to confirm everything is working as expected. 
+If you encounter any further difficulties or have additional 
+questions, please don't hesitate to reply to this message.
+
+We appreciate your patience and understanding while we worked
+ to resolve this for you.
+
+Best regards,
+
+[Your Name/Support Team]
+
+============================== New sample ==============================
+
+Review : I've been exploring the app's interface for a while, 
+and everything feels intuitive and responsive. Navigation is 
+smooth, and features are easy to find without confusion. This 
+level of thoughtful design really enhances the overall user 
+experience and makes the app enjoyable to use.
+Sentiment : positive
+Diagnosis: None
+Response : Thank you so much for this wonderful review! We're 
+absolutely delighted to hear that you find the app's interface 
+intuitive and responsive, and that navigation is smooth with 
+features easy to find.
+
+It's incredibly rewarding to know that our focus on thoughtful 
+design is truly enhancing your overall user experience and making 
+the app enjoyable for you. Your kind words mean a lot to the entire 
+team!
+
+We're always striving to make the app even better, so please 
+don't hesitate to share any further thoughts, ideas, or feedback 
+you might have in the future. Your insights are incredibly valuable!
+
+
+
