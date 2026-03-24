@@ -1,0 +1,25 @@
+====================New Sample====================
+User : What is the richest nation?
+ChatBot : Luxembourg
+
+====================New Sample====================
+User : What are the ways to protect water from pollution?
+ChatBot : *   **Treat wastewater.**
+*   **Reduce chemical use.**
+*   **Prevent runoff.**
+*   **Regulate industries.**
+*   **Educate public.**
+*   **Conserve water.**
+
+====================New Sample====================
+User : What is the product of 20 amd 350?
+ChatBot : 7000
+
+====================New Sample====================
+User : What are some best selling books on self development and character building?
+ChatBot : *   Atomic Habits by James Clear
+*   The 7 Habits of Highly Effective People by Stephen Covey
+*   How to Win Friends and Influence People by Dale Carnegie
+*   Mindset by Carol Dweck
+*   Man's Search for Meaning by Viktor Frankl
+
